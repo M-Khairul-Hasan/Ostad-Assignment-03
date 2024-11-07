@@ -4,9 +4,9 @@ export  const Secret_Key = "abc"
 export  const Secret_Key_Expire_Time =  10 * 60 * 1000
 
 export  const Email_Host = "smtp.gmail.com"
-export  const Email_Port = "587"
+export  const Email_Port = 587
 export  const Email_User = "khairul.hx@gmail.com"
-export  const Email_Password = ""
+export  const Email_Password = "hbha zlih fyce mqbq"
 
 export const MONGODB_URI = "mongodb+srv://Shanto:Shantonu12@cluster0.f33r5.mongodb.net"
 
